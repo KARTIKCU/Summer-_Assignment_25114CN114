@@ -1,4 +1,4 @@
-// WAP to Print star pyramid
+// WAP to Print star  pyramid
 
 #include <iostream>
 using namespace std;
