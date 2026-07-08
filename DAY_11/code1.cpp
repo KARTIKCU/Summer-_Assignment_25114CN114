@@ -1,4 +1,4 @@
-//WAP TO Write function to find sum of two numbers
+//WAP TO Write function to find sum of  two numbers
  
 #include <iostream>
 using namespace std;
