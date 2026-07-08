@@ -1,4 +1,4 @@
-// WAP to Write function for Armstrong
+// WAP to Write function for  Armstrong
 
 #include <iostream>
 using namespace std;
