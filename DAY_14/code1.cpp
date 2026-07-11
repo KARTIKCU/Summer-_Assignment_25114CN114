@@ -1,4 +1,4 @@
-// WAP to linear search
+// WAP to linear  search
 
 #include <iostream>
 using namespace std;
