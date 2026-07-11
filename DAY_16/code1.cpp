@@ -1,4 +1,4 @@
-//WAP  to Find missing number in array
+//WAP  to Find missing number  in array
 
 #include <iostream>
 using namespace std;
